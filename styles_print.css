@@ -1,0 +1,121 @@
+#brownbar {background:none; background-color:#ffffff; height:25px; color:#000000; font-size:25px; font-weight:bold; width:100%;}
+
+#content {}
+
+#header {display:none;}
+
+#leftcolumn {display:none;}
+
+#logo {display:none;}
+
+#maincontent {}
+
+#rightcolumn {margin-left:0px;}
+
+#facebook {display:none;}
+
+#twitter {display:none;}
+
+
+
+a {font-size:13px; color:#dddddd; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold;}
+
+a:hover {font-size:13px; color:#dddddd; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold;}
+
+a.small {font-size:12px; color:#dddddd; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold;}
+
+a.small:hover {font-size:12px; color:#dddddd; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold;}
+
+a.info {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+
+a.info:hover {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+
+a.info_on {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+
+a.info_on:hover {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+
+a.navWhite {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold; text-decoration:none;}
+
+a.navWhite:hover {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold; text-decoration:none;}
+
+a.navTan {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold; text-decoration:none;}
+
+a.navTan:hover {color:#dddddd; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold; text-decoration:none;}
+
+body {background:none; margin:0px; padding:0px; background-color:#ffffff;}
+
+html {margin:0px; padding:0px;}
+
+p,div,ul,li,ol,blockquote,span {font-size:13px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+
+
+
+.bg_description {background-color:#ffffff; padding:0px;}
+
+.bg_navBrown {background:transparent url(images/bg_title.gif); background-color:#ffffff; padding-left:4px; padding-top:2px; padding-bottom:2px;}
+
+.bg_navTan {background:transparent url(images/bg_navigationTan.gif); padding-left:12px; padding-top:2px; padding-bottom:2px;}
+
+.bg_navTanMain {background:transparent url(images/bg_navigationTan.gif); padding-left:4px; padding-top:2px; padding-bottom:2px;}
+
+.bold {font-weight:bold;}
+
+.border_1pxblack {border:1px solid #000000;}
+
+.border_enlarge {border:none; background-color:#ffffff}
+
+.date {color:#000000; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; padding-top:3px;}
+
+.date_adopt {padding:0px 0px 0px 0px; min-height:70px;}
+
+.didyouknow {color:#000000; font-family:Arial,Helvetica,Verdana,sans-serif; font-size:17px; font-weight:bold;}
+
+.donate {position:absolute; top:60px; right:0px;}
+
+.floatleft {float:left;}
+
+.floatright {float:right;}
+
+.heading {color:#000000; font-family:Arial,Helvetica,Verdana,sans-serif; font-size:14px; font-weight:bold;}
+
+.hr_rule {display:none;}
+
+.info {display:none;}
+
+.last_updated {position:absolute; top:0px; right:0px; padding-top:7px; padding-right:7px; width:150px;}
+
+.lime {font-size:11px; color:#000000; font-family:Arial,Helvetica,Verdana,sans-serif; background-color:#ffffff;}
+
+.navBG {background:transparent url(images/bg_navigationTan.gif); width:136px; height:1px;}
+
+.noprint {display:none;}
+
+.padding_6pxL {display:none;}
+
+.padding4px {padding:4px;}
+
+.padding6pxR {padding-right:6px;}
+
+.padding12px {padding:12px;}
+
+.padding_title {padding-top:3px; padding-left:6px;}
+
+.sidenote {background-color:#ffffff; padding:8px; border:1px solid #404038; float:right; margin-left:14px;}
+
+.sidenote_bg {background-color:#ffffff; padding:8px; border:1px solid #404038;}
+
+.sidenote_nobg {margin-left:14px; float:right;}
+
+.subtitle {font-family:Times,"Times New Roman",Arial,Verdana,sans-serif; font-size:14px; font-weight:bold; color:#000000;}
+
+.square {font-size:13px; font-family:Arial,Helvetica,Verdana,sans-serif; list-style-type:square;}
+
+.text_navWhite {color:#ffffff; font-size:11px; font-family:Arial,Helvetica,Verdana,sans-serif; font-weight:bold;}
+
+.title {font-family:Times,"Times New Roman",Arial,Verdana,sans-serif; font-size:17px; font-weight:bold; color:#000000;}
+
+.titleDonation {color:#000000; font-family:Arial, Verdana,sans-serif; font-size:20px; font-weight:bold;}
+
+.small {color:#000000; font-family:Arial,Helvetica,Verdana,sans-serif; font-size:12px; font-weight:normal;}
+
+.whitecaption {color:#000000; font-family:Arial,Helvetica,Verdana,sans-serif; font-size:11px; font-weight:normal;}
